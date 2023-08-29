@@ -1,0 +1,17 @@
+In statistics, a population is the entire group of individuals, objects, or events that you are interested in studying. A sample is a subset of the population that you actually collect data from. The size of the sample is always less than the total size of the population.
+
+For example, if you are interested in studying the average height of all adults in the United States, the population would be all adults in the United States. A sample would be a group of adults that you actually measure the height of.
+
+There are many reasons why you might want to use a sample instead of the entire population. For example, it might be too expensive or time-consuming to collect data from the entire population. Or, the population might be too large or dispersed to make it practical to collect data from everyone.
+
+When you use a sample, you are making an inference about the population based on the data from the sample. This is called inferential statistics. In order to make accurate inferences, it is important to make sure that the sample is representative of the population. This means that the sample should be a good cross-section of the population, and it should not be biased in any way.
+
+There are a number of different sampling methods that can be used to ensure that the sample is representative of the population. These methods include random sampling, stratified sampling, and cluster sampling.
+
+Random sampling is the most common method of sampling. In random sampling, each member of the population has an equal chance of being selected for the sample. This can be done by using a random number generator to select the sample members.
+
+Stratified sampling is a method of sampling that is used when the population is divided into different strata. For example, the population of adults in the United States could be stratified by age, gender, and race. In stratified sampling, a random sample is selected from each stratum. This ensures that the sample is representative of the population in terms of the strata.
+
+Cluster sampling is a method of sampling that is used when the population is divided into clusters. For example, the population of adults in the United States could be clustered by state. In cluster sampling, a random sample of clusters is selected. Then, all of the members of the selected clusters are included in the sample.
+
+The type of sampling method that you use will depend on the specific needs of your study. However, it is important to make sure that the sample is representative of the population in order to make accurate inferences.
